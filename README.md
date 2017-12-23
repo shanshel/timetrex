@@ -7,4 +7,10 @@ time and attendance software that can help you manage employee time, attendance,
 
 <h3> What This Project </h3>
 Since There No Official Documentation For TimeTrex. 
+I Decide To Clone A TimeTrex Version, And Write Documentation For It,
+
+Contribution Is Welcome.
+
+
+<a href="#"> Read Documentation  </a>
 
