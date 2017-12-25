@@ -12,5 +12,5 @@ I Decide To Clone A TimeTrex Version, And Write Documentation For It,
 Contribution Is Welcome.
 
 
-<a href="#"> Read Documentation  </a>
+<a href="https://github.com/shanshel/timetrex/wiki"> Read Documentation  </a>
 
