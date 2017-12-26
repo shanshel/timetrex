@@ -1,5 +1,8 @@
 # TimeTrex
 
+<h2> This Documention Not Completed And Not Yet, Use It Only For Getting a Little Refrance and tips. </h2> 
+
+
 <h3> What is TimeTrex </h3>
 It's An HRMS Sofrware
 time and attendance software that can help you manage employee time, attendance, HR and payroll via the web and mobile app!
