@@ -1,6 +1,6 @@
 # TimeTrex
 
-<h2> This Documention Not Completed And Not Yet, Use It Only For Getting a Little Refrance and tips. </h2> 
+<h2> This Documention Not Completed Yet, Use It Only For Getting a Little Refrance and tips. </h2> 
 
 
 <h3> What is TimeTrex </h3>
